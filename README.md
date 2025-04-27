@@ -5,7 +5,6 @@
 -->
 - 🔭 I was a student at Zetech University till 2025 <br/>
 -    Degree in Software engineering<br/>
-- 🌱 I’m a software engineer<br/>
 - 👯 I'm a data analyst ,front end and backend developer, good in machine learning and AI ,system configurations<br/>
 - 💬 Ask me about anything<br/>
 
